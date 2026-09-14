@@ -1,0 +1,11 @@
+graph.facebook.com
+fbcdn.net
+cinemacity.cz
+cinestar.cz
+im9.cz
+cdn.foxentry.cz
+c.imedia.cz
+plarium.com
+xp.apple.com
+client-api.itunes.apple.com
+www.atcmarket.cz
